@@ -1,14 +1,14 @@
 ## 你好！我是Lumine2024
 
-### 主要使用语言
+- 我是一名电子科技大学的大二学生，就读于计算机科学与技术专业
+- 希望就职于米哈游
+- 目前正在学习算法竞赛、计算几何、计算机图形学等内容
+- 正在积极维护的仓库：
+    - [CPTemplate](https://github.com/Lumine2024/CPTemplate)
 
 ![lang](https://gh-readme-stats.vercel.app/api/top-langs/?username=Lumine2024&layout=compact&hide=verilog)
 
-### 活跃图
-
 ![actgraph](https://github-readme-activity-graph.vercel.app/graph?username=Lumine2024)
-
-### GitHub状态
 
 ![stats](https://gh-readme-stats.vercel.app/api?username=Lumine2024&show_icons=true)
 
