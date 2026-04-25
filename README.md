@@ -5,6 +5,7 @@
 - 目前正在学习算法竞赛、计算几何、计算机图形学等内容
 - 正在积极维护的仓库：
     - [CPTemplate](https://github.com/Lumine2024/CPTemplate)
+    - [miHoYo.skill](https://github.com/Lumine2024/miHoYo.skill)
 
 ![lang](https://gh-readme-stats.vercel.app/api/top-langs/?username=Lumine2024&layout=compact&hide=verilog)
 
